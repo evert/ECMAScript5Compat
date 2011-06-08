@@ -1,0 +1,3 @@
+This script I made that implements some of the ECMAScript5 features in browsers where this isn't available.
+
+I only implemented very few features. This was mainly done as a learning excersize.
